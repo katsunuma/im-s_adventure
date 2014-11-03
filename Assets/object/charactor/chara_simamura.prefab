@@ -11,7 +11,7 @@ GameObject:
   - 212: {fileID: 21200000}
   - 114: {fileID: 11400000}
   m_Layer: 0
-  m_Name: uduki
+  m_Name: chara_simamura
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39,6 +39,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fac24c245c44bdb409c26b65cb264063, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  chara_number: 0
 --- !u!212 &21200000
 SpriteRenderer:
   m_ObjectHideFlags: 1
