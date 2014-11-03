@@ -47,8 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\script\camera_position.cs" />
+     <Compile Include="Assets\script\chara_control.cs" />
+     <Compile Include="Assets\script\chara_data.cs" />
      <Compile Include="Assets\script\chara_move.cs" />
-     <Compile Include="Assets\script\chara_num.cs" />
      <Compile Include="Assets\script\chara_preset_positions.cs" />
      <Compile Include="Assets\script\field.cs" />
   </ItemGroup>

@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\field.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\chara_data.cs">
     <Files>
-      <File FileName="Assets\script\field.cs" Line="22" Column="2" />
+      <File FileName="Assets\script\chara_data.cs" Line="9" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
